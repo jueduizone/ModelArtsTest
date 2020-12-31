@@ -1,3 +1,4 @@
+<!--
 summary: ModelArts自动学习实现美食分类
 id: ModelArts-AutoML-Food-Recong
 categories: Primary
@@ -5,6 +6,7 @@ tags: AutoML
 status: Published
 authors: JamieXu
 feedback link: http://www.huaweicloud.ai
+-->
 
 # ModelArts自动学习实现美食分类
 <!-- ---------------------- -->
